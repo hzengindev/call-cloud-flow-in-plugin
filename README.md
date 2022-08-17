@@ -7,3 +7,7 @@
 ## Code
 
 ![Flow](https://raw.githubusercontent.com/hzengindev/call-cloud-flow-in-plugin/main/img/code.png)
+
+## Dynamics / CRM
+
+![Flow](https://raw.githubusercontent.com/hzengindev/call-cloud-flow-in-plugin/main/img/crm.png)
